@@ -1,0 +1,103 @@
+Pickwick    ,       ,   yes
+Bess and George ,   Pickwick    ,   yes
+Ford Prefect    ,   Pickwick    ,   yes
+Little John ,   Pickwick    ,   yes
+Passepartout    ,   Pickwick    ,   yes
+Sally Kimball   ,   Pickwick    ,   yes
+Snow White  ,   Pickwick    ,   yes
+Tock the Watchdog   ,   Pickwick    ,   yes
+Renfield    ,   Pickwick    ,   yes
+The Black Keys  ,   Bess and George ,   no
+The Velvet Mask ,   Bess and George ,   no
+The Old Stagecoach  ,   Bess and George ,   no
+The Tapping Heels   ,   Bess and George ,   no
+The Whistling Bagpipes  ,   Bess and George ,   no
+The Broken Locket   ,   Bess and George ,   no
+The Crossword Cipher    ,   Bess and George ,   no
+The Leaning Chimney ,   Bess and George ,   no
+The Old Album   ,   Bess and George ,   no
+The Dancing Puppet  ,   Bess and George ,   no
+The Diary   ,   Bess and George ,   no
+The Crumbling Wall  ,   Bess and George ,   no
+The Jewel Box   ,   Bess and George ,   no
+Uncle Silas ,   Ford Prefect    ,   no
+Time's Arrow    ,   Ford Prefect    ,   no
+Earth Afire ,   Ford Prefect    ,   no
+Cloud Atlas ,   Ford Prefect    ,   no
+Naked Lunch ,   Ford Prefect    ,   no
+Ethan Frome ,   Ford Prefect    ,   no
+Bleak House ,   Ford Prefect    ,   no
+Embezzlement at the French Laundry  ,   Little John ,   no
+Godiva Chocolate Smugglers  ,   Little John ,   no
+Who Stole the Canopy Bed?   ,   Little John ,   no
+The Gold Bar Heist  ,   Little John ,   no
+The Rolls Royce Carjacking  ,   Little John ,   no
+The Champagne Robbery   ,   Little John ,   no
+The Mansion Burglary    ,   Little John ,   no
+Pilfering in First Class    ,   Little John ,   no
+Theft of a Picasso  ,   Little John ,   no
+Tootsie Roll Coloring Book  ,   Little John ,   no
+The Hut Six Story   ,   Little John ,   no
+Pyrite: A Natural History of Fool's Gold    ,   Little John ,   no
+Doodle Diary    ,   Little John ,   no
+Notes on Cracker Barrel Napkins ,   Little John ,   no
+Taming Your Gremlin ,   Little John ,   no
+Maurice, or the Fisher's Cot    ,   Little John ,   no
+The Thank You Economy   ,   Little John ,   no
+The Cider House Rules   ,   Little John ,   no
+Arrowsmith  ,   Passepartout    ,   no
+The Man in the High Castle  ,   Passepartout    ,   no
+Strange Case of Dr Jekyll and Mr Hyde   ,   Passepartout    ,   no
+Remembrance of Things Past  ,   Passepartout    ,   no
+Fifty Shades of Gray    ,   Passepartout    ,   no
+Misery  ,   Passepartout    ,   no
+Tarzan of the Apes  ,   Passepartout    ,   no
+Something That Happened ,   Sally Kimball   ,   no
+The High-Bouncing Lover ,   Sally Kimball   ,   no
+Pride and Prejudice ,   Sally Kimball   ,   no
+Tomorrow is Another Day ,   Sally Kimball   ,   no
+The Great Gatsby    ,   Sally Kimball   ,   no
+Twilight    ,   Sally Kimball   ,   no
+Gone With the Wind  ,   Sally Kimball   ,   no
+All's Well That Ends Well   ,   Sally Kimball   ,   no
+The Sun Also Rises  ,   Sally Kimball   ,   no
+Of Mice and Men ,   Sally Kimball   ,   no
+Fiesta  ,   Sally Kimball   ,   no
+War and Peace   ,   Sally Kimball   ,   no
+First Impressions   ,   Sally Kimball   ,   no
+The Sound and The Fury  ,   Sally Kimball   ,   no
+The Bumper Book of Insults  ,   Snow White  ,   no
+The Invisible Man   ,   Snow White  ,   no
+Clear and Present Danger    ,   Snow White  ,   no
+A Million Miles Away    ,   Snow White  ,   no
+Once Upon a Time in the West    ,   Snow White  ,   no
+The Floating Admiral    ,   Snow White  ,   no
+All the President's Men ,   Snow White  ,   no
+Bulfinch's Mythology    ,   Snow White  ,   no
+Mothership: Tales from Afrofuturism and Beyond  ,   Snow White  ,   no
+Everybody Poops ,   Snow White  ,   no
+Uncle John's Bathroom Reader    ,   Snow White  ,   no
+The Sum of All Fears    ,   Tock the Watchdog   ,   no
+Cloudy with a Chance of Meatballs   ,   Tock the Watchdog   ,   no
+How to Eat Fried Worms  ,   Tock the Watchdog   ,   no
+Where the Sidewalk Ends ,   Tock the Watchdog   ,   no
+Do's and Dont's ,   Tock the Watchdog   ,   no
+The Art of War  ,   Tock the Watchdog   ,   no
+Treasure Island ,   Tock the Watchdog   ,   no
+The Kitchen God's Wife  ,   Tock the Watchdog   ,   no
+Cosmos  ,   Tock the Watchdog   ,   no
+I'm With the Band   ,   Tock the Watchdog   ,   no
+Mr. Boston's Bartending Guide   ,   Tock the Watchdog   ,   no
+Curtain ,   Tock the Watchdog   ,   no
+101 Amazing Facts   ,   Tock the Watchdog   ,   no
+Bartlett's Familiar Quotations  ,   Tock the Watchdog   ,   no
+Animal Farm ,   Renfield    ,   no
+Up the Down Staircase   ,   Renfield    ,   no
+A Confederacy of Dunces ,   Renfield    ,   no
+Everything You Always Wanted To Know About Sex* ,   Renfield    ,   no
+Just So Stories ,   Renfield    ,   no
+The Joy of Cooking  ,   Renfield    ,   no
+Mansfield Park  ,   Renfield    ,   no
+Astrology for Dummies   ,   Renfield    ,   no
+Who's Who   ,   Renfield    ,   no
+Double or Die   ,   Renfield    ,   no
